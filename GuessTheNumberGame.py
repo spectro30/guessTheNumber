@@ -14,7 +14,7 @@ for guessTaken in range(1,8) :
         break
 
 if x == secretNumber :
-    print('Good job! You guesssed my number in ' + str(guessTaken) + ' moves')
+    print('Good job Bro! You guesssed my number in ' + str(guessTaken) + ' moves')
 else :
     print('Boka***da! Eidao parli na? The number was ' + str(secretNumber))
 s = input()
